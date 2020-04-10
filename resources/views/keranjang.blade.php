@@ -240,8 +240,8 @@
 										<li class="last">You Pay<span>$310.00</span></li>
 									</ul>
 									<div class="button5">
-										<a href="#" class="btn">Checkout</a>
-										<a href="#" class="btn">Continue shopping</a>
+										<a href="/checkout" class="btn">Checkout</a>
+										<a href="/produk" class="btn">Continue shopping</a>
 									</div>
 								</div>
 							</div>
